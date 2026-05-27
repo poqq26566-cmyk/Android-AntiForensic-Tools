@@ -1,6 +1,11 @@
 # Android AntiForensic Tools
 [Readme на русском](./README_RU.md)
 
+Follow me on [telegram](https://t.me/bakad3v) and [twitter](https://x.com/bakad3v) to keep up with updates.
+
+## #Keep android open
+You can read my statement on the upcoming sideloading ban and learn some ways to circumwent it [here](https://medium.com/@bakad3v/android-sideloading-matters-6d0e25684960).
+
 ## Description
 
 Android AntiForensic Tools is a free and open-source application designed to protect your personal data from a powerful adversary who can pressure you to unlock your device. Its purpose is to irreversibly destroy your sensitive data in the event of danger, to do so completely invisibly to the human eye, and, as far as possible, **to try** to do so imperceptibly to forensic experts. It allows you to wipe the device, user profiles, or personal files when a duress password is entered, a USB device is connected, device buttons are pressed several times in a row, or the wrong password is entered multiple times. The application offers additional options to protect your device from advanced adversaries: it can uninstall itself, run [TRIM](https://blog.elcomsoft.com/2025/06/what-trim-drat-and-dzat-really-mean-for-ssd-forensics/) after data deletion to prevent recovery of deleted data, disable logs to leave no traces of its actions, and disable safe boot mode.
