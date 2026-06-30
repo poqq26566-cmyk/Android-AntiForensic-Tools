@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="ok">OK</string>
-    <string name="cancel">Cancel</string>
-    <string name="empty_value_in_dialog">Empty value</string>
-    <string name="number_out_of_range">Number out of range</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="empty_value_in_dialog">值为空</string>
+    <string name="number_out_of_range">数字超出范围</string>
 </resources>
