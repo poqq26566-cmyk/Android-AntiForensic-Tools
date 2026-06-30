@@ -1,7 +1,7 @@
 <resources>
     <string name="allowed_attempts">错误尝试次数</string>
     <string name="accessibility_service_required">需要无障碍服务</string>
-    <string name="when_usb_connected">USB 连接时...</string>
+    <string name="when_usb_connected">USB 连接时…</string>
     <string name="remove_itself">卸载自身</string>
     <string name="root_recommended">需要 root 或 Dhizuku；推荐 root</string>
     <string name="ui_settings">界面设置</string>
@@ -32,7 +32,7 @@
 <p><strong>重要：如果未使用 root，此选项仅从启动器隐藏应用；应用在设置中仍然可见。与 Dhizuku 一起使用时，此选项与设备管理员权限不兼容。</strong></p>]]></string>
     <string name="clear_itself_long"><![CDATA[<p>所有操作完成后应用将清除自身。需要 Dhizuku 权限或 root。</p>
 <p><strong>重要：应用将保留在设备上。与 Dhizuku 一起使用时，此选项与设备管理员权限不兼容。</strong></p>]]></string>
-    <string name="clear_data_long">所有操作完成后应用将清除其数据。清除应用数据后，应用只能隐藏自身（参见“隐藏自身”选项）。与“清除自身”选项不同，应用的权限将保留。</string>
+    <string name="clear_data_long">所有操作完成后应用将清除其数据。清除应用数据后，应用只能隐藏自身（参见"隐藏自身"选项）。与"清除自身"选项不同，应用的权限将保留。</string>
     <string name="run_on_password">紧急密码触发</string>
     <string name="run_on_password_long">当您输入紧急密码（而非 PIN）时，应用将开始销毁数据。这与您解锁应用时使用的密码相同。需要无障碍服务正在运行。</string>
     <string name="install_dhizuku">是否要安装 Dhizuku？</string>
@@ -71,14 +71,14 @@
     <string name="enable_switch_user_long">用户切换当前被禁止。是否要允许并启用用户切换界面？建议在不需要时禁用用户切换界面，否则攻击者可能从锁屏界面通过下拉设置菜单获取您的配置文件列表。\n重要：仅当启用用户切换界面选项无效时使用此方法。</string>
     <string name="disable_switch_user_long">用户切换当前被允许。是否要禁止并禁用用户切换界面？建议在不需要时禁用用户切换界面，否则攻击者可能从锁屏界面通过下拉设置菜单获取您的配置文件列表。\n重要：仅当禁用用户切换界面选项无效时使用此方法。</string>
     <string name="accessibility_service_title">打开无障碍服务设置</string>
-    <string name="accessibility_service_long"><![CDATA[本应用需要无障碍服务来执行各种操作。点击“确定”并转到“已安装的服务 > Island（或 Shelter）”以启用或禁用无障碍服务。]]></string>
+    <string name="accessibility_service_long"><![CDATA[本应用需要无障碍服务来执行各种操作。点击"确定"并转到"已安装的服务 > Island（或 Shelter）"以启用或禁用无障碍服务。]]></string>
     <string name="run_trim">运行 TRIM</string>
     <string name="trim_long"><![CDATA[所有操作完成后，应用将运行 <a href="https://blog.elcomsoft.com/2025/06/what-trim-drat-and-dzat-really-mean-for-ssd-forensics/">TRIM 命令</a> 通知驱动器哪些区域不再使用并可被擦除。启用此选项可降低恢复已删除数据的可能性。需要 root 权限或 Shizuku 权限。</p>
 <p><strong>重要：建议使用 root 权限使用此选项。如果使用 Shizuku 权限且 Shizuku 服务处于非活动状态，TRIM 将不会运行。</strong></p>]]></string>
     <string name="wipe_data">擦除数据</string>
     <string name="wipe_long">应用将擦除所有用户数据，如果从主用户调用则擦除设备上的所有数据。使用设备管理员权限擦除所有设备数据（从主用户调用擦除）需要 Android 13 或更低版本。</string>
     <string name="self_destruct_long"><![CDATA[<p>所有操作完成后应用将销毁自身。需要 root 权限或 Shizuku 权限。</p>
-<p><strong>重要：建议使用 root 权限使用此选项。如果使用 Shizuku 权限且 Shizuku 服务处于非活动状态，应用将无法销毁自身。在这种情况下，“隐藏应用”选项可通过从启动器隐藏应用来提供帮助。</strong></p>]]></string>
+<p><strong>重要：建议使用 root 权限使用此选项。如果使用 Shizuku 权限且 Shizuku 服务处于非活动状态，应用将无法销毁自身。在这种情况下，"隐藏应用"选项可通过从启动器隐藏应用来提供帮助。</strong></p>]]></string>
     <string name="run_on_connection">连接时销毁数据</string>
     <string name="run_on_usb_connection_long">当 USB 设备或 USB 配件连接时，应用将开始销毁数据。仅以充电模式连接到计算机也将被计入。如果您想连接任何 USB 设备而不冒数据丢失的风险，请不要忘记禁用此选项！需要无障碍服务正在运行。</string>
     <string name="bruteforce_defense">暴力破解防御</string>
@@ -92,7 +92,7 @@
     <string name="clicks_number_long">设置触发数据销毁所需的连续电源键点击次数</string>
     <string name="destroy_on_button_title">是否通过电源键点击销毁数据？</string>
     <string name="destroy_on_button_long"><![CDATA[<p>如果激活此选项，连续按手机电源键一定次数将删除数据。</p><p>需要无障碍服务和 root 权限。</p>]]></string>
-    <string name="destroy_on_button_legacy_long"><![CDATA[<p>如果激活此选项，连续按手机电源键一定次数将删除数据。</p><p><strong>无 root 权限使用此选项已因充分理由被弃用。如果您无法授予 root 权限，请考虑使用“音量键触发”选项。</strong></p>
+    <string name="destroy_on_button_legacy_long"><![CDATA[<p>如果激活此选项，连续按手机电源键一定次数将删除数据。</p><p><strong>无 root 权限使用此选项已因充分理由被弃用。如果您无法授予 root 权限，请考虑使用"音量键触发"选项。</strong></p>
 <p>在传统模式下，应用计数的是由这些点击引起的屏幕开关状态变化，而非直接计数按钮点击。点击与屏幕状态变化之间存在延迟，在此期间进行的额外点击将不被计数。因此，您不应点击过快；这就是此模式默认点击间最大延迟较高的原因。<strong>此方法容易出现误报和漏报。</strong></p>
 <p>需要无障碍服务。</p>]]></string>
     <string name="reboot_on_usb">是否在 USB 连接时重启？</string>
@@ -107,13 +107,140 @@
     <string name="allow_screenshots_long">是否允许对本应用截图？如果允许截图，Android 系统可以自动截取本应用的屏幕截图（用于在最近应用列表中显示预览）。具有 root 访问权限的攻击者可以查看这些截图。禁用截图也有助于防范间谍软件。</string>
     <string name="provide_root_or_dhizuku">您需要提供 root 或 Dhizuku 权限才能启用此功能</string>
     <string name="logd_on_boot">启动时停止</string>
-    <string name="logd_on_boot_long"><![CDATA[<p><strong>已弃用选项——请改用“设置日志状态”。</strong></p>
+    <string name="logd_on_boot_long"><![CDATA[<p><strong>已弃用选项——请改用"设置日志状态"。</strong></p>
 <p>是否要在设备启动时禁用 logd 服务？这样做将防止攻击者使用日志恢复销毁操作的历史记录。如果禁用此选项或卸载应用，logd 将在设备重启后重新启用。需要 root 权限。</p>]]></string>
     <string name="logd_on_start">启动时停止</string>
-    <string name="logd_on_start_long"><![CDATA[<p><strong>已弃用选项——请改用“设置日志状态”。</strong></p>
+    <string name="logd_on_start_long"><![CDATA[<p><strong>已弃用选项——请改用"设置日志状态"。</strong></p>
 <p>是否要在开始数据删除时禁用 logd 服务？这样做将防止攻击者使用日志恢复销毁操作的历史记录。logd 将在设备重启后重新启用。需要 root 权限。</p>]]></string>
     <string name="destroy_data_long">确定要开始数据销毁吗？应用将销毁所选数据（文件、配置文件等）并执行所选操作（运行 TRIM、停止日志等）。</string>
     <string name="theme">选择主题</string>
     <string name="all_superusers">需要任意超级用户</string>
     <string name="root_or_dhizuku_api">需要 root 或 Dhizuku，Android 9+</string>
-    <string name="root_and_owner">需要 root
+    <string name="root_and_owner">需要 root 或 Dhizuku</string>
+    <string name="admin_rights">管理员权限</string>
+    <string name="device_owner">Dhizuku</string>
+    <string name="root">root 权限</string>
+    <string name="prevent_bruteforce">防止暴力破解</string>
+    <string name="accessibility_service">无障碍服务</string>
+    <string name="admin_required">需要管理员权限</string>
+    <string name="destroy_on_button">电源键点击触发</string>
+    <string name="clicks_number">点击次数（电源键）</string>
+    <string name="latency_text">延迟——电源键，传统模式（毫秒）</string>
+    <string name="multiuser_ui">多用户界面</string>
+    <string name="switch_user_ui">用户切换器界面</string>
+    <string name="root_or_shizuku_android10">需要 root 或 Shizuku，Android 10+</string>
+    <string name="switch_user_permission">用户切换权限</string>
+    <string name="root_and_owner_android9">需要 root 或 Dhizuku，Android 9+</string>
+    <string name="safe_boot_status">安全启动状态</string>
+    <string name="settings">设置</string>
+    <string name="device_protection">设备保护</string>
+    <string name="move_to_bfu">锁定后进入 BFU</string>
+    <string name="moving_to_bfu_delay">进入 BFU 延迟（秒）</string>
+    <string name="disable_multiuser_ui_automatically">何时禁用多用户界面…</string>
+    <string name="never">从不</string>
+    <string name="device_booted">设备启动时</string>
+    <string name="device_locked">设备锁定时</string>
+    <string name="change_moving_to_bfu_delay">更改进入 BFU 延迟</string>
+    <string name="change_moving_to_bfu_delay_long">设置锁定手机屏幕与重启之间的延迟。重启将使手机进入 BFU 模式并从内存中擦除加密密钥。</string>
+    <string name="move_to_bfu_long">锁定时，设备会等待一段时间让您解锁。如果您没有解锁，设备将重启。这将使设备进入 BFU 模式并从内存中移除加密密钥，使您的设备更安全。</string>
+    <string name="auto_move_to_bfu">锁定时将设备移至 BFU</string>
+    <string name="disable_multiuser_ui_automatically_dialog">自动禁用多用户界面</string>
+    <string name="disable_multiuser_ui_automatically_on_boot_long">用户切换界面将在设备启动时自动禁用。这可以防止通过下拉设置菜单发现您的配置文件。</string>
+    <string name="disable_multiuser_ui_automatically_on_lock_long">用户切换界面将在屏幕锁定时自动禁用。这可以防止通过下拉设置菜单发现您的配置文件。</string>
+    <string name="root_and_owner_android9_acessibility">需要 root/Shizuku/Dhizuku，无障碍服务，Android 9+</string>
+    <string name="root_and_shizuku_and_dhizuku_accessibility">需要 root、Shizuku 或 Dhizuku + 无障碍服务</string>
+    <string name="please_install_testonly_version">测试版应用可用！</string>
+    <string name="install_testonly_version_long">您使用的不是测试版应用。该版本的缺点是自毁选项与管理员权限不兼容。建议安装测试版。</string>
+    <string name="install">安装</string>
+    <string name="ignore_update">忽略更新</string>
+    <string name="empty_response">响应为空</string>
+    <string name="connection_error">连接错误</string>
+    <string name="server_error">服务器错误 %1$d：%2$s</string>
+    <string name="unknown_error">未知错误：%1$s</string>
+    <string name="network_error">网络错误</string>
+    <string name="superuser_exception">超级用户异常</string>
+    <string name="unknown_exception">未知异常</string>
+    <string name="root_latency_text">延迟——电源键，超级用户模式（毫秒）</string>
+    <string name="destroy_on_volume_button">音量键点击触发</string>
+    <string name="clicks_number_volume">点击次数（音量键）</string>
+    <string name="latency_volume_text">延迟——音量键（毫秒）</string>
+    <string name="run_on_power_clicks_legacy">运行（传统模式）</string>
+    <string name="run_on_power_clicks_superuser">运行（超级用户模式）</string>
+    <string name="run_on_volume_up">音量上键触发</string>
+    <string name="run_on_volume_down">音量下键触发</string>
+    <string name="provide_root">您需要提供 root 权限才能选择此选项</string>
+    <string name="destroy_on_button_legacy_title">是否通过电源键点击销毁数据？（传统模式）</string>
+    <string name="change_clicks_number_volume">设置音量键点击次数</string>
+    <string name="clicks_number_volume_long">设置触发数据销毁所需的连续音量键点击次数</string>
+    <string name="change_volume_button_latency">更改音量键延迟</string>
+    <string name="button_volume_latency_long">设置音量键连续点击之间的最大延迟（毫秒）。默认：500 毫秒。</string>
+    <string name="destroy_on_button_volume_up_title">是否通过音量上键点击销毁数据？</string>
+    <string name="destroy_on_button_volume_up_long">如果激活此选项，连续按手机音量上键一定次数将删除数据。需要无障碍服务。</string>
+    <string name="destroy_on_button_volume_down_title">是否通过音量下键点击销毁数据？</string>
+    <string name="destroy_on_button_volume_down_long">如果激活此选项，连续按手机音量下键一定次数将删除数据。需要无障碍服务。</string>
+    <string name="legacy_settings">传统设置</string>
+    <string name="set_logs_status">设置日志状态</string>
+    <string name="set_developer_settings_status">设置开发者选项状态</string>
+    <string name="setup_logs_manually">手动设置日志</string>
+    <string name="disable_logs">禁用日志</string>
+    <string name="enable_logs">启用日志</string>
+    <string name="disable_logs_long">日志已启用。是否要禁用？禁用日志将防止攻击者使用日志数据恢复销毁操作的历史记录。</string>
+    <string name="enable_logs_long">日志已禁用。是否要启用？</string>
+    <string name="disable_developer_settings">禁用开发者选项</string>
+    <string name="enable_developer_settings">启用开发者选项</string>
+    <string name="disable_developer_settings_long">开发者选项已启用。是否要隐藏？</string>
+    <string name="enable_developer_settings_long">开发者选项已隐藏。是否要取消隐藏？</string>
+    <string name="bruteforce_prevention_settings">暴力破解防御设置</string>
+    <string name="buttons_settings">按钮设置</string>
+    <string name="data_destruction_settings">数据销毁设置</string>
+    <string name="questionable_settings">有疑问的设置</string>
+    <string name="permanent_settings_long">这些设置将以攻击者可能注意到的方式改变设备行为。这可能使攻击者怀疑您使用了 Android AntiForensic Tools。此部分中的每项设置（传统设置和有疑问的设置除外）都提供了如何手动复现相同设置的说明。建议记住这些说明，并在被问及时向攻击者复述。</string>
+    <string name="permissions_setting">权限设置</string>
+    <string name="permanent_settings">显眼设置</string>
+    <string name="how_to_disable_logs">如何禁用日志</string>
+    <string name="how_to_disable_logs_long"><![CDATA[<div><pre>• 按照<a href="https://developer.android.com/studio/debug/dev-options">此说明</a>启用开发者选项</pre></div><div><pre>• 打开开发者选项</pre></div><div><pre>• 找到"日志记录器缓冲区大小"并将其设置为"关闭"</pre></div><div><pre>• 找到"在设备上持久存储日志数据"并将其设置为"关闭"</pre></div>]]></string>
+    <string name="how_to_disable_safe_boot_long"><![CDATA[<p>请使用 root 或 ADB 而非 Dhizuku 来禁用安全启动。</p>
+<p>• 在您的电脑上下载 <a href="https://developer.android.com/tools/releases/platform-tools" rel="nofollow">SDK Platform Tools</a></p>
+<p>• 解压存档</p>
+<p>• 在您的移动设备上，<a href="https://developer.android.com/studio/debug/dev-options" rel="nofollow">解锁开发者选项</a></p>
+<p>• 打开开发者选项并启用 USB 调试</p>
+<p>• 连接设备并为您的电脑允许 USB 调试</p>
+<p>• 打开命令提示符并运行：&lt;path-to-platform-tools&gt;/adb shell settings put global safe_boot_disallowed 1</p>]]></string>
+    <string name="how_to_disable_safe_boot">如何禁用安全启动</string>
+    <string name="setup_safe_boot_manually">手动设置安全启动</string>
+    <string name="setup_users_number_manually">手动设置用户限制</string>
+    <string name="how_to_change_users_limit">如何更改用户限制</string>
+    <string name="how_to_change_users_limit_long"><![CDATA[<p>• 获取 root 权限</p><p>• 下载终端模拟器，例如 <a href="https://f-droid.org/packages/com.termux/">Termux</a></p><p>• 打开终端并运行：su</p><p>• 然后运行：setprop fw.max_users &lt;用户数量&gt;</p>]]></string>
+    <string name="no">否</string>
+    <string name="with_admin_rights">使用管理员权限</string>
+    <string name="with_accessibility_service">使用无障碍服务</string>
+    <string name="bruteforce_defense_admin">暴力破解防御（管理员权限）</string>
+    <string name="bruteforce_defense_accessibility">暴力破解防御（无障碍服务）</string>
+    <string name="bruteforce_defence_accessibility_long"><![CDATA[<p>达到最大错误密码尝试次数（默认：10）后，应用将开始销毁您的数据。需要无障碍服务。</p><p><strong>警告：此暴力破解检测方法为实验性，<strong>无法检测到每第 5 次错误密码尝试</strong>。实际上这意味着如果您将限制设置为 5 次失败尝试，应用可能无法检测到第 5 次失败——可能直到第 6 次尝试才会触发。</strong></p><p>此方法在自定义 ROM 或使用非通用语言的设备上也可能失败。如果此方法对您无效，请使用需要管理员权限的替代方法。</p>]]></string>
+    <string name="provide_admin">您需要授予管理员权限才能选择此选项</string>
+    <string name="no_accessibility_service">无障碍服务未运行</string>
+    <string name="grant_accessibility">您需要启动无障碍服务才能选择此选项</string>
+    <string name="shizuku">Shizuku</string>
+    <string name="install_shizuku">是否要安装 Shizuku？</string>
+    <string name="install_shizuku_long">您需要安装 Shizuku 应用并激活它。建议下载 pixincreate 的分支，因为该版本的自我激活效果更好。</string>
+    <string name="disable_shizuku_manually">手动撤销 Shizuku 权限</string>
+    <string name="disable_shizuku_manually_long">打开 Shizuku 应用并手动撤销 Shizuku 权限</string>
+    <string name="shizuku_state">Shizuku 状态</string>
+    <string name="initialized">已初始化</string>
+    <string name="dead">已停止</string>
+    <string name="loading">加载中</string>
+    <string name="root_or_shizuku_root_recommended">root 或 Shizuku；推荐 root</string>
+    <string name="dhizuku_root_admin">需要 Dhizuku/root/管理员权限</string>
+    <string name="root_or_shizuku">需要 root 或 Shizuku</string>
+    <string name="root_shizuku_and_owner">需要 root、Shizuku 或 Dhizuku</string>
+    <string name="notification_hiding">通知隐藏</string>
+    <string name="enable_notification_hiding">是否启用通知隐藏？</string>
+    <string name="enable_notification_hiding_long">是否要隐藏关于无障碍服务使用的 Android 系统通知？此通知可能向敌人暴露您的设备上存在 Android AntiForensic Tools</string>
+    <string name="faq">常见问题</string>
+    <string name="password_doesnt_work">紧急密码不起作用？</string>
+    <string name="password_faq"><![CDATA[可能的原因如下：<br />1. 您的手机在您输入时不显示密码字符。要解决此问题，请打开设置 -> 安全与隐私 -> 隐私控制 -> 显示密码（或在搜索中搜索"显示密码"）。<strong>警告：当此设置启用时，任何无障碍服务都可以获取您的密码，所以请注意您安装了哪些应用！</strong><br />2. 您在锁屏上使用 PIN 码。不支持 PIN 码，请在锁屏上使用强密码。<br />3. 设备特定问题。您可以在 <a href="https://github.com/bakad3v/Android-AntiForensic-Tools/issues">github issues</a> 上报告任何设备特定问题]]></string>
+    <string name="open_privacy_settings">打开隐私设置</string>
+    <string name="cant_activate_accessibility_service">无障碍服务不起作用？</string>
+    <string name="accessibility_service_faq"><![CDATA[可能的原因如下：<br />1. 您需要在应用设置中允许受限设置。尝试为此应用激活无障碍服务，点击需要无障碍服务权限的应用列表中的非活动应用以查看警告对话框。在此失败尝试后，打开设置 -> 应用 -> 本应用 -> 右上角三个点 -> 允许受限设置并输入您的密码。现在再次尝试启用无障碍服务。<br />2. 本应用中的开关对您撒谎，无障碍服务并未工作。只需再次激活！<br />3. 设备特定问题。您可以在 <a href=\"https://github.com/bakad3v/Android-AntiForensic-Tools/issues\">github issues</a> 上报告任何设备特定问题]]></string>
+    <string name="open_app_settings">打开应用设置</string>
+</resources>
