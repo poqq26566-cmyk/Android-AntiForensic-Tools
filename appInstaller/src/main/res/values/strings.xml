@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_installation_description">App installation notifications</string>
-    <string name="app_installation">App installation</string>
-    <string name="app_update_in_progress">App update in progress</string>
-    <string name="update_success">Successfully updated</string>
-    <string name="update_failed">Update failed</string>
+    <string name="app_installation_description">应用安装通知</string>
+    <string name="app_installation">应用安装</string>
+    <string name="app_update_in_progress">正在更新应用</string>
+    <string name="update_success">更新成功</string>
+    <string name="update_failed">更新失败</string>
 </resources>
