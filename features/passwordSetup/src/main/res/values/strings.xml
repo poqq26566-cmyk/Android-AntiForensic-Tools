@@ -1,19 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="create_password">Set up password</string>
-    <string name="short_password">Password too short</string>
+    <string name="create_password">设置密码</string>
+    <string name="short_password">密码太短</string>
     <string name="duress_password"><![CDATA[
-<p>This password will be used both to unlock the application and to trigger data deletion. If you configure the app properly, entering this password on the lock screen will perform the destructive actions you specify. Here are some tips:</p>
-<p>• Use password, not a PIN-code, on your device!</p>
-<p>• Enter a strong password.</p>
-<p>• The Android system places restrictions on lock-screen passwords. Typically a password must be between 4 and 16 characters long and must not contain non-ASCII letters. Some firmware enforces different rules, so these restrictions cannot always be applied programmatically — you need to test them on your device.</p>
-<p>• Choose a password similar to your device password. If the passwords are similar, an adversary is more likely to believe you entered the wrong password by mistake.</p>
+<p>此密码将同时用于解锁应用和触发数据删除。如果配置得当，在锁屏界面输入此密码将执行您指定的销毁操作。以下是一些建议：</p>
+<p>• 请使用密码而非 PIN 码！</p>
+<p>• 输入强密码。</p>
+<p>• Android 系统对锁屏密码有限制。通常密码长度必须在 4 到 16 个字符之间，且不得包含非 ASCII 字母。部分固件执行不同规则，因此这些限制无法始终通过程序化方式应用——您需要在设备上测试。</p>
+<p>• 选择一个与您的设备密码相似的密码。如果密码相似，攻击者更可能相信您只是输错了密码。</p>
 ]]></string>
-    <string name="change_password">Change password</string>
-    <string name="password_changed">Password changed</string>
-    <string name="empty_password">Password is empty</string>
-    <string name="crack_time_undefined">Time to crack: not applicable</string>
-    <string name="crack_time_offline">Time to crack (offline): %1$s</string>
-    <string name="crack_time_online">Time to crack (via lock screen interface): %1$s</string>
-    <string name="password_strength">Password strength: %1$s</string>
+    <string name="change_password">更改密码</string>
+    <string name="password_changed">密码已更改</string>
+    <string name="empty_password">密码为空</string>
+    <string name="crack_time_undefined">破解时间：不适用</string>
+    <string name="crack_time_offline">破解时间（离线）：%1$s</string>
+    <string name="crack_time_online">破解时间（通过锁屏界面）：%1$s</string>
+    <string name="password_strength">密码强度：%1$s</string>
 </resources>
