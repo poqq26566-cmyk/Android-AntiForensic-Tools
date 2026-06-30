@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="enable_update_notifications">Notify about updates?</string>
-    <string name="install_update">Install update</string>
-    <string name="install_usual_version">Install usual version</string>
-    <string name="install_testonly_version">Install testonly version</string>
-    <string name="select_app_version">Select app version</string>
-    <string name="reload">Reload</string>
-    <string name="latest_version">Latest version: %1$s</string>
-    <string name="update_app"><![CDATA[You can install a new version of the app. <strong>Don\'t forget to reactivate accessibility service after update!</strong>]]></string>
-    <string name="install_testonly"><![CDATA[You have the latest version, but you don\'t have the testOnly version of the app installed. The testOnly app version has several advantages. You can read more on <a href="https://github.com/bakad3v/Android-AntiForensic-Tools?tab=readme-ov-file#apps-versions">GitHub</a>. <strong>Don\'t forget to reactivate accessibility service after update!</strong>]]></string>
-    <string name="testonly_update_warning"><![CDATA[<p><strong>Warning: if you will update from usual to testOnly version of the app, device admin rights would be revoken and you would need to enable them again manually.</strong></p>]]></string>
-    <string name="up_to_date">You\'re up to date</string>
-    <string name="app_update_center">App update center</string>
+    <string name="enable_update_notifications">是否通知更新？</string>
+    <string name="install_update">安装更新</string>
+    <string name="install_usual_version">安装普通版本</string>
+    <string name="install_testonly_version">安装测试版本</string>
+    <string name="select_app_version">选择应用版本</string>
+    <string name="reload">重新加载</string>
+    <string name="latest_version">最新版本：%1$s</string>
+    <string name="update_app"><![CDATA[您可以安装新版本的应用。<strong>更新后别忘了重新激活无障碍服务！</strong>]]></string>
+    <string name="install_testonly"><![CDATA[您已安装最新版本，但未安装 testOnly 版本。testOnly 版本有若干优势。您可以在 <a href="https://github.com/bakad3v/Android-AntiForensic-Tools?tab=readme-ov-file#apps-versions">GitHub</a> 上了解更多。<strong>更新后别忘了重新激活无障碍服务！</strong>]]></string>
+    <string name="testonly_update_warning"><![CDATA[<p><strong>警告：如果从普通版本更新到 testOnly 版本，设备管理员权限将被撤销，您需要手动重新启用。</strong></p>]]></string>
+    <string name="up_to_date">已是最新版本</string>
+    <string name="app_update_center">应用更新中心</string>
 </resources>
