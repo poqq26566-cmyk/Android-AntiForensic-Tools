@@ -1,14 +1,13 @@
 <resources>
-  <string name="app_name">AntiForensic Tools</string>
-  <string name="cancel">Cancel</string>
-  <string name="ok">OK</string>
-  <string name="logo_background">Background of logotype</string>
-  <string name="wake_up">Caro m\'è \'l sonno, e più l\'esser di sasso, mentre che \'l danno e la vergogna dura; non veder, non sentir m\'è gran ventura; però non mi destar, deh, parla basso.</string>
-  <string name="prominent_disclosure_message">The app uses accessibility service to listen for a duress password on the lockscreen and listen for usb connections.</string>
-  <string name="update_check_failed">Error while checking updates</string>
-  <string name="update_check_failed_long">App failed to check updates. Please check your internet connection or disable update checking feature in settings.</string>
-  <string name="updates_found">Updates found</string>
-  <string name="updates_found_long">Updates for application were found! Please visit updates settings to install updates or disable update checking.</string>
-  <string name="app_update_center">App update center</string>
-
+  <string name="app_name">反取证工具</string>
+  <string name="cancel">取消</string>
+  <string name="ok">确定</string>
+  <string name="logo_background">标志背景</string>
+  <string name="wake_up">睡意沉重如石，耻辱与伤害却依旧；不见不闻实为幸事；故勿唤醒我，请低声细语。</string>
+  <string name="prominent_disclosure_message">该应用使用无障碍服务监听锁屏界面的紧急密码和 USB 连接。</string>
+  <string name="update_check_failed">检查更新失败</string>
+  <string name="update_check_failed_long">应用检查更新失败。请检查网络连接，或在设置中禁用更新检查功能。</string>
+  <string name="updates_found">发现更新</string>
+  <string name="updates_found_long">发现应用更新！请前往更新设置安装更新，或禁用更新检查。</string>
+  <string name="app_update_center">应用更新中心</string>
 </resources>
