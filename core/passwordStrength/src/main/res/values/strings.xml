@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="worst">Worst</string>
-    <string name="weak">Weak</string>
-    <string name="medium">Medium</string>
-    <string name="good">Good</string>
-    <string name="excellent">Excellent</string>
-    <string name="empty">Empty</string>
+    <string name="worst">极弱</string>
+    <string name="weak">弱</string>
+    <string name="medium">中等</string>
+    <string name="good">良好</string>
+    <string name="excellent">优秀</string>
+    <string name="empty">空</string>
 </resources>
