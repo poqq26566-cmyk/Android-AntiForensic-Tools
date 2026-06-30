@@ -1,21 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about_long"><![CDATA[<p>THIS APP HAS NOTHING IN COMMON WITH THE <a target="_blank" rel="noopener noreferrer" href="https://gitea.angry.im/PeterCxy/Shelter">SHELTER</a> OR <a target="_blank" rel="noopener noreferrer" href="https://github.com/oasisfeng/island">ISLAND</a> ANDROID APPS. THEIR LOGOS, NAMES, AND PACKAGE NAMES ARE USED ONLY TO HIDE THE EXISTENCE OF THIS APP.</p>
+    <string name="about_long"><![CDATA[<p>本应用与 <a target="_blank" rel="noopener noreferrer" href="https://gitea.angry.im/PeterCxy/Shelter">Shelter</a> 或 <a target="_blank" rel="noopener noreferrer" href="https://github.com/oasisfeng/island">Island</a> Android 应用无关。它们的标志、名称和包名仅用于隐藏本应用的存在。</p>
 
-<p>Android AntiForensic Tools is a free and open-source application designed to protect your personal data from powerful adversaries who may pressure you into unlocking your device. Its purpose is to irreversibly destroy sensitive data in dangerous situations, doing so invisibly to the human eye and, as much as possible, imperceptibly to forensic experts. The app allows you to wipe the device, user profiles, or personal files when a duress password is entered, a USB device is connected, device buttons are pressed several times in a row, or the wrong password is entered multiple times. It also offers additional options to protect your device from advanced adversaries: uninstalling itself, running TRIM after data deletion to prevent recovery, disabling logs to leave no traces of its actions, and disabling safe boot mode.</p>
+<p>Android 反取证工具是一款免费开源应用，旨在保护您的个人数据免受可能施压要求您解锁设备的强大对手的侵害。其目的是在危险情况下不可逆地销毁敏感数据，对人眼完全不可见，并尽可能对取证专家不可察觉。该应用允许您在输入紧急密码、连接 USB 设备、连续多次按下设备按钮或多次输入错误密码时擦除设备、用户配置文件或个人文件。它还提供额外选项来保护您的设备免受高级对手的攻击：卸载自身、数据删除后运行 TRIM 以防止恢复、禁用日志以不留痕迹、以及禁用安全启动模式。</p>
 
-<p>Read more on <a target="_blank" rel="noopener noreferrer" href="https://github.com/bakad3v/Android-AntiForensic-Tools">GitHub</a>.</p>
+<p>在 <a target="_blank" rel="noopener noreferrer" href="https://github.com/bakad3v/Android-AntiForensic-Tools">GitHub</a> 上了解更多。</p>
 
-<p>You can support me with crypto:</p>
-<p>Monero: 88Z5fsVK6FP4oVNjo2BrHydAEa5Y1gTPi5d7BN68sjVDZ9dTn8wPb89WmUxrxf3T37bRGSR5dekkU9aQ7j8ErWcBJ2GZojC</p>
-<p>LTC: ltc1qtfhun6yzt0qlpa9d6s8gr2yd70sg0kx755u3se</p>
-<p>BTC: bc1qn9a9eyy2vgrz8yvhk0654d63dt56pxhpn6q4xl</p>
-<p>BTC Lightning: dualwhorl66@walletofsatoshi.com</p>
+<p>您可以通过加密货币支持我：</p>
+<p>门罗币：88Z5fsVK6FP4oVNjo2BrHydAEa5Y1gTPi5d7BN68sjVDZ9dTn8wPb89WmUxrxf3T37bRGSR5dekkU9aQ7j8ErWcBJ2GZojC</p>
+<p>莱特币：ltc1qtfhun6yzt0qlpa9d6s8gr2yd70sg0kx755u3se</p>
+<p>比特币：bc1qn9a9eyy2vgrz8yvhk0654d63dt56pxhpn6q4xl</p>
+<p>比特币闪电网络：dualwhorl66@walletofsatoshi.com</p>
 
-<p>Special thanks to:</p>
-<p>x13a — developer of the Wasted app, which inspired me to create this one.</p>
-<p>iamr0s — developer of the Dhizuku application.</p>
-<p>BinTianqi — developer of the Owndroid app, who wrote the code for connecting to the Dhizuku service.</p>
+<p>特别感谢：</p>
+<p>x13a — Wasted 应用的开发者，本应用受其启发。</p>
+<p>iamr0s — Dhizuku 应用的开发者。</p>
+<p>BinTianqi — Owndroid 应用的开发者，编写了连接 Dhizuku 服务的代码。</p>
 ]]></string>
-    <string name="about">About app</string>
+    <string name="about">关于应用</string>
 </resources>
