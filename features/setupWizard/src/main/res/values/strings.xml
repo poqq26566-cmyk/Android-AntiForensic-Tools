@@ -49,12 +49,12 @@
     <string name="hide_multiuser_ui_question"><![CDATA[<p>&bull; Hide the multiuser UI every time you turn off the phone screen</p>]]></string>
     <string name="run_trim_question"><![CDATA[<p>&bull; Run the <a href="https://blog.elcomsoft.com/2025/06/what-trim-drat-and-dzat-really-mean-for-ssd-forensics/">TRIM command</a> after data destruction to remove traces of deleted data</p>]]></string>
     <string name="some_permissions_granted">You granted some permissions, but this is probably not enough</string>
-    <string name="not_enough_rights_to_check_safe_boot">App doesn\'t have enough rights to check the safe boot status</string>
+    <string name="not_enough_rights_to_check_safe_boot">应用没有足够权限检查安全启动状态</string>
     <string name="not_enough_rights_to_check_logs">App doesn\'t have enough rights to check the log status</string>
     <string name="probably_enough_permissions">You probably granted enough permissions, but the app would still work better with root rights</string>
-    <string name="setup_notifications_hiding">Setup notifications hiding</string>
-    <string name="setup_notifications_hiding_title">5. Setup notifications hiding</string>
-    <string name="additional_recomn">Additional recommendations</string>
+    <string name="setup_notifications_hiding">设置通知隐藏</string>
+    <string name="setup_notifications_hiding_title">5. 设置通知隐藏</string>
+    <string name="additional_recomn">额外建议</string>
     <string name="additional_recommendations">Additional recommendations</string>
-    <string name="additional_recommendayions_long"><![CDATA[<p>There are some other&nbsp;recommended actions that can\'t be performed automatically:</p>\n<p>1. If you use Magisk for managing root permissions, open Magisk settings -&gt; Superuser -&gt; Superuser notification and select \"none\". Toasts from Magisk may reveal the usage of this app to adversary.</p>\n<p>2. Remove any traces of Android AntiforensicTools apk file on all your devices</p>\n<p>3. Remove android antiforensic tools github page from your browser history</p>]]></string>
+    <string name="additional_recommendayions_long"><![CDATA[<p>还有一些其他推荐操作无法自动完成：:</p>\n<p>1. 如果您使用Magisk管理root权限，请打开Magisk设置->Superuser->Superuser 通知并选择"无”。Magisk的提示可能会向对手暴露您使用了此应用。</p>\n<p>2. 删除所有设备上 Android AntiForensic Tools APK 文件的所有痕迹</p>\n<p>3. 从浏览器历史记录中删除android antiforensic tools github页面</p>]]></string>
 </resources>
