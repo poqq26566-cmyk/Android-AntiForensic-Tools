@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="log">Logs</string>
-    <string name="enable_logs">Enable logging</string>
-    <string name="select_day">Open logs for a day</string>
-    <string name="change_timeout">Change timeout</string>
-    <string name="clear_logs">Clear logs</string>
-    <string name="enable_logs_long"><![CDATA[Do you really want to enable logging? If an adversary gains access to the application password, they could view data about deleted data. <strong>It is highly recommended to enable logs only for application testing.</strong>]]></string>
-    <string name="enter_timeout_logs">Enter timeout for log auto-deletion (in days)</string>
-    <string name="timeout_logs_long">Logs older than N days will be cleared to free space.</string>
-    <string name="clear_logs_question">Do you want to clear logs?</string>
-    <string name="logs_clear_warning">Logs for day %1$s will be cleared.</string>
-    <string name="logs_help">You can read logs here if they are enabled. Logs show when the application was unlocked and what data was deleted. Logs are deleted automatically after 7 days, but you can change this behavior.</string>
-    <string name="select_date">Select date</string>
-    <string name="disable_logs">Disable logging</string>
+    <string name="log">日志</string>
+    <string name="enable_logs">启用日志</string>
+    <string name="select_day">查看某天的日志</string>
+    <string name="change_timeout">更改超时时间</string>
+    <string name="clear_logs">清除日志</string>
+    <string name="enable_logs_long"><![CDATA[确定要启用日志吗？如果攻击者获取了应用密码，他们可以查看被删除数据的历史记录。<strong>强烈建议仅在应用测试时启用日志。</strong>]]></string>
+    <string name="enter_timeout_logs">输入日志自动删除超时时间（天）</string>
+    <string name="timeout_logs_long">超过 N 天的日志将被清除以释放空间。</string>
+    <string name="clear_logs_question">是否要清除日志？</string>
+    <string name="logs_clear_warning">%1$s 的日志将被清除。</string>
+    <string name="logs_help">如果日志已启用，您可以在此查看日志。日志显示应用何时解锁以及哪些数据被删除。日志在 7 天后自动删除，但您可以更改此行为。</string>
+    <string name="select_date">选择日期</string>
+    <string name="disable_logs">禁用日志</string>
 </resources>
